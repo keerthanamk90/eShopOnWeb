@@ -9,7 +9,7 @@ env:
   LOCATION: India
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 3d35e3e8-7ed0-4acd-a113-934d70ce5ecf
-  WEBAPP-NAME: az400-webapp-Keerthana
+  WEBAPP-NAME: rg-az400-eshoponweb-Keerthana
 
 
 jobs:
